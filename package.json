@@ -32,7 +32,7 @@
     "@medusajs/cache-redis": "^1.8.9",
     "@medusajs/event-bus-local": "^1.9.7",
     "@medusajs/file-local": "^1.0.2",
-    "@medusajs/medusa": "1.17.4",
+    "@medusajs/medusa": "1.20.2",
     "@mui/material": "^5.14.18",
     "@mui/x-charts": "^6.18.1",
     "@segment/analytics-node": "^1.1.3",
